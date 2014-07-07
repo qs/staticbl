@@ -1,6 +1,8 @@
 Staticbl
 ========
 
+![travis-ci](https://api.travis-ci.org/qs/staticbl.svg?branch=master "staticbl master")
+
 staticbl - yet another simple static blog generator, using jinja2 and creole wiki-syntax. Supports russian transliteraion in urls.
 
 You can use it with [Git Pages](https://pages.github.com/)
